@@ -1,0 +1,20 @@
+58. Installing json-server
+59. Understanding the json-server backend
+
+60. Installing redux-saga middleware
+61. Creating and running our first saga
+62. Introduction to Generator Functions and Yield Returns
+
+63. Understanding "infinity" function generators
+64. Driving the point home, Generator functions and Yield returns
+65. Understanding Saga Effect Take
+66. Creating a function to automatically start all Sagas
+67. Understanding Saga Effect PUT
+68. Understanding Saga Effect CALL
+69. Cleaning up the way for sagas
+70. Removing the initial data from the reducer and fetching it from the backend
+71. Creating part of our first real Saga using Take
+72. Querying data from our saga using CALL
+73. Adding data to the UI using PUT
+74. Understand another Saga Effect FORK
+75. Splitting our Backend to have two endpoints to use with Fork

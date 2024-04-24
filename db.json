@@ -1,0 +1,33 @@
+{
+  "entries": [
+    {
+      "id": "1",
+      "des": "salary credited(redux)"
+    },
+    {
+      "id": "2",
+      "des": "milk"
+    },
+    {
+      "id": "56dea2c5-d7c9-4c65-9edd-442fac462716",
+      "des": "tea"
+    }
+  ],
+  "values": [
+    {
+      "id": "1",
+      "amount": "100000",
+      "isExpense": false
+    },
+    {
+      "id": "2",
+      "amount": "100000",
+      "isExpense": false
+    },
+    {
+      "id": "56dea2c5-d7c9-4c65-9edd-442fac462716",
+      "amount": "100",
+      "isExpense": false
+    }
+  ]
+}
